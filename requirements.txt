@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+jupyter
+notebook
+matplotlib
+nltk
+beautifulsoup4
+requests
+lxml
+selenium
